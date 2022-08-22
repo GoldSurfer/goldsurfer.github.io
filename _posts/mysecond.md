@@ -1,9 +1,6 @@
 ---
 layout: single
 title:  "text mining VS NLP"
-subtitle: 
-date: 
-background: 
 ---
 
 # 텍스트 마이닝과 자연어 처리 비교의 7가지 중요한 점
