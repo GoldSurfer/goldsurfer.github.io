@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "GoldSurfer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "골드서퍼의 첫 블로그 만들기 연습 입니다."
   location         : "Somewhere"
   email            :
   links:
